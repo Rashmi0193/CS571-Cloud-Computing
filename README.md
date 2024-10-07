@@ -1,2 +1,2 @@
-# CS571-Cloud-Computing-Project-1
+# CS571-Cloud-Computing
 # This is my 1st project on GitHub
