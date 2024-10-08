@@ -18,7 +18,7 @@ Step 5: Modify HTTP JSON API Server to support this request from the client side
 
 # Implementation
 
-# Requirements
+Requirements
 
 # Installing Ubuntu
 
@@ -38,12 +38,19 @@ Step 5: Modify HTTP JSON API Server to support this request from the client side
 # Commands for installing Node.js and npm
 
 $ sudo apt install nodejs
+
 $ sudo apt-get install -y nodejs
 
 # Commands for uninstalling Node.js and npm
 
 $ sudo apt-get remove nodejs
+
 $ sudo apt-get autoremove
+
+# Setting up Time Server
+
+
+<img width="1003" alt="Screenshot 2024-10-07 at 9 28 38 PM" src="https://github.com/user-attachments/assets/c563689b-d4c6-4fe7-9b2c-52a67d713de5">
 
 
 
