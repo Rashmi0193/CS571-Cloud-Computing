@@ -53,5 +53,11 @@ $ sudo apt-get autoremove
 <img width="1003" alt="Screenshot 2024-10-07 at 9 28 38 PM" src="https://github.com/user-attachments/assets/c563689b-d4c6-4fe7-9b2c-52a67d713de5">
 
 
+# Output
 
-[Presentation](https://docs.google.com/presentation/d/1SGjZQ4JaCV_G43ex8N2WF7s2SfsvGmfPNffXJCzzzuY/edit#slide=id.p)
+<img width="396" alt="Screenshot 2024-10-07 at 9 34 27 PM" src="https://github.com/user-attachments/assets/053de922-32b5-458d-af4c-a37f0f6e4428">
+
+
+
+
+[Google Slides - Presentation](https://docs.google.com/presentation/d/1SGjZQ4JaCV_G43ex8N2WF7s2SfsvGmfPNffXJCzzzuY/edit#slide=id.p)
