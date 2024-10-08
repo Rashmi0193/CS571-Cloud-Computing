@@ -6,10 +6,13 @@
 # Design
 
 Step 1: Install Node.js on Ubuntu
+
 Step 2: Study Time Server to understand how to setup a time server.
-Quan Zhou - 2021 Spring
+
 Step 3: Study JSON to understand how to use JSON format because you'll use JSON in the next two steps.
+
 Step 4: Study HTTP JSON API Server
+
 Step 5: Modify HTTP JSON API Server to support this request from the client side:
 
 
