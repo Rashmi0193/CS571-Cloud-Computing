@@ -1,3 +1,3 @@
-# CS571-Cloud-Computing
+# Cloud-Computing Projects
 
 
